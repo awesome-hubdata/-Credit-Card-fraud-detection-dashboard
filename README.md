@@ -1,9 +1,6 @@
-# Credit-Card-fraud-detection-dashboard
-An interactive Streamlit dashboard for detecting fraudulent credit card transactions using an XGBoost model. Includes real-time fraud detection, sample data download, and visual insights.
-
 # 💳 Credit Card Fraud Detection Dashboard
 
-An interactive **Streamlit web application** for detecting fraudulent credit card transactions in real-time using a trained **XGBoost model**.
+An interactive **Streamlit web application** for detecting fraudulent credit card transactions in real-time using a trained **XGBoost model**.Includes sample data download, and visual insights.
 
 ---
 
@@ -21,6 +18,7 @@ An interactive **Streamlit web application** for detecting fraudulent credit car
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/Credit-Card-fraud-detection-dashboard.git
+
 cd fraud-detection-dashboard
 
 ### 2️⃣ Create a virtual environment
@@ -79,5 +77,5 @@ Ogundiya Adebisi Michael
 
 📧 Michaelopiii@gmail.com 
 
-🌐 https:linkedin.com/in/ogundiyaa
+🌐 https://linkedin.com/in/ogundiyaa)
 
