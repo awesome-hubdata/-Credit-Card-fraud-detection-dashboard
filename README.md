@@ -7,6 +7,13 @@ An interactive **Streamlit web application** for detecting fraudulent credit car
 Due to GitHub file size limits, the dataset is not included.  
 You can download the original [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle and place it in the project folder.
 
+## 🖥️ Dashboard Preview
+
+Here’s what the Fraud Detection Dashboard looks like:
+
+![Credit Card Fraud Detection Dashboard](images/dashboard_preview.png)
+
+
 
 ## 🚀 Features
 
