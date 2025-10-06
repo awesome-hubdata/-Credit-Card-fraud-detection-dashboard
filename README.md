@@ -3,6 +3,10 @@
 An interactive **Streamlit web application** for detecting fraudulent credit card transactions in real-time using a trained **XGBoost model**.Includes sample data download, and visual insights.
 
 ---
+## 📊 Dataset
+Due to GitHub file size limits, the dataset is not included.  
+You can download the original [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle and place it in the project folder.
+
 
 ## 🚀 Features
 
