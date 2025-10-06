@@ -11,7 +11,7 @@ You can download the original [Credit Card Fraud Detection Dataset](https://www.
 
 Here’s what the Fraud Detection Dashboard looks like:
 
-![Credit Card Fraud Detection Dashboard](images/dashboard_preview.png)
+![Credit Card Fraud Detection Dashboard Preview](dashboard_preview.png)
 
 
 
