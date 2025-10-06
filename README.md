@@ -23,14 +23,19 @@ An interactive **Streamlit web application** for detecting fraudulent credit car
 git clone https://github.com/Credit-Card-fraud-detection-dashboard.git
 cd fraud-detection-dashboard
 
-###2️⃣ Create a virtual environment
+### 2️⃣ Create a virtual environment
+
 conda create -n fraudapp python=3.10
 conda activate fraudapp
 
-###3️⃣Install dependencies
+### 3️⃣ Install dependencies
+
 pip install -r requirements.txt
 
-###4️⃣ streamlit run fraud_dashboard.py
+### 4️⃣ streamlit run fraud_dashboard.py
+
+
+
 
 ## 🧩 Model Information
 
@@ -43,7 +48,8 @@ The trained XGBoost model (fraud_xgb_model.json) achieves:
 | Precision | 0.998  |
 | Recall    | 0.997  |
 
-## 🔒 5. `.gitignore`
+##  🔒 5. `.gitignore`
+
 Create a `.gitignore` file to prevent unnecessary uploads:
 pycache/
 *.pkl
@@ -54,6 +60,8 @@ pycache/
 .env
 
 ## ✅ 6. Upload Steps
+
+
 Open your terminal in the `Fraud_app` folder and run:
 
 git init
@@ -66,7 +74,10 @@ git push -u origin main
 🧑‍💻 Author
 
 Ogundiya Adebisi Michael
+
 © 2024 | Data Analyst 
+
 📧 Michaelopiii@gmail.com 
+
 🌐 linkedin.com/in/ogundiyaa
 
